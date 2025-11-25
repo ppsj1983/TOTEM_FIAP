@@ -15,7 +15,9 @@
 
 ## 📜 Introdução
 
-- <b>.Rodoviaria</b>: 
+
+
+- <b>Rodoviaria</b>: 
 <p align="center">
 <img width="606" height="271" alt="Image" src="https://github.com/user-attachments/assets/6dbfa192-4a63-4f7c-b9c8-8d3c4a83c99c" /></a></p>
 
@@ -23,7 +25,11 @@
 
 - Mais da metade das passagens de ônibus ainda é vendida no guichê das empresas. ClickBus investe R$ 15 milhões em inteligência artificial para digitalizar o mercado e otimizar sua viagem [pesquisa ClickBus, 2025].
 
-- <b>.Totem Rodoviaria</b>: 
+- Com passagens aéreas mais caras e o aumento das viagens em família, os meses de férias concentram mais de 12 milhões de embarques, confirmando o ônibus como protagonista do turismo doméstico brasileiro [pesquisa Diario do Transporte, 2025]
+
+- Viagens rodoviárias crescem 33% no primeiro semestre do ano e movimentam o turismo nacional, O setor rodoviário interestadual encerrou o primeiro semestre de 2024 com um expressivo aumento de 33% no número de passageiros [Agencia Gov, 2025]
+
+- <b>Totem Rodoviaria</b>: 
 <p align="center">
 <img width="569" height="337" alt="Image" src="https://github.com/user-attachments/assets/1b9baad6-2afe-4537-ad55-996c05de27dc" /></a></p>
 
