@@ -15,7 +15,7 @@
 
 ## 📜 Transporte Rodoviário - Cenario e Oportunidade (Dispositivo de autoatendimento)
 
-
+No Brasil Ônibus são os preferidos para 29% dos turistas brasileiros, aponta pesquisa [Mobilidade Estadao, 2025], transporte rodoviário coletivo é fundamental para a mobilidade urbana e intermunicipal, conecta pessoas a serviços essenciais, reduzindo congestionamento e impulsiona a economia, por ser uma opção de baixo custo para o passageiro, transporte rodoviário coletivo é vital para regiões mais isoladas e para a inclusão social de grande parte da população que depende desse modal para se locomover.
 
 - <b>Rodoviaria</b>: 
 <p align="center">
@@ -33,9 +33,7 @@
 <p align="center">
 <img width="569" height="337" alt="Image" src="https://github.com/user-attachments/assets/1b9baad6-2afe-4537-ad55-996c05de27dc" /></a></p>
 
-
-
-## 📜 Tema Global Solution 2025 - 2º Semestre
+## 📜 Proposta
 
 
 ## 📁 Proposta
