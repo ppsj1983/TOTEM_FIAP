@@ -18,6 +18,7 @@
 - <b>.Rodoviaria</b>: 
 <p align="center">
 <img width="606" height="271" alt="Image" src="https://github.com/user-attachments/assets/6dbfa192-4a63-4f7c-b9c8-8d3c4a83c99c" /></a></p>
+
 - 60% das pessoas ainda compram passagem de ônibus na rodoviária [pesquisa BlaBlaCar, 2024].
 
 - Mais da metade das passagens de ônibus ainda é vendida no guichê das empresas. ClickBus investe R$ 15 milhões em inteligência artificial para digitalizar o mercado e otimizar sua viagem [pesquisa ClickBus, 2025].
