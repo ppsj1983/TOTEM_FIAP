@@ -15,15 +15,15 @@
 
 ## 📜 Introdução
 
-- <b>.Totem Rodoviaria</b>: 
-<p align="center">
-<img width="569" height="337" alt="Image" src="https://github.com/user-attachments/assets/1b9baad6-2afe-4537-ad55-996c05de27dc" /></a>
-</p>
-
 - <b>.Rodoviaria</b>: 
 <p align="center">
-<img width="606" height="271" alt="Image" src="https://github.com/user-attachments/assets/6dbfa192-4a63-4f7c-b9c8-8d3c4a83c99c" /></a>
-</p>
+<img width="606" height="271" alt="Image" src="https://github.com/user-attachments/assets/6dbfa192-4a63-4f7c-b9c8-8d3c4a83c99c" /></a></p>
+
+- <b>.Totem Rodoviaria</b>: 
+<p align="center">
+<img width="569" height="337" alt="Image" src="https://github.com/user-attachments/assets/1b9baad6-2afe-4537-ad55-996c05de27dc" /></a></p>
+
+
 
 ## 📜 Tema Global Solution 2025 - 2º Semestre
 
@@ -35,9 +35,6 @@
 
 
 ## 🔧 Resultados
-
-
-
 
 
 ## 🔧 Referências
