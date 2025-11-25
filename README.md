@@ -15,11 +15,12 @@
 
 ## 📜 Transporte Rodoviário - Cenario e Oportunidade (Dispositivo de autoatendimento)
 
-No Brasil Ônibus são os preferidos para 29% dos turistas brasileiros, aponta pesquisa [Mobilidade Estadao, 2025], transporte rodoviário coletivo é fundamental para a mobilidade urbana e intermunicipal, conecta pessoas a serviços essenciais, reduzindo congestionamento e impulsiona a economia, por ser uma opção de baixo custo para o passageiro, transporte rodoviário coletivo é vital para regiões mais isoladas e para a inclusão social de grande parte da população que depende desse modal para se locomover.
+Ônibus são os preferidos para 29% dos turistas brasileiros, aponta pesquisa [Mobilidade Estadao, 2025], transporte rodoviário coletivo é fundamental para a mobilidade urbana e intermunicipal, conecta pessoas a serviços essenciais, reduzindo congestionamento e impulsiona a economia, por ser uma opção de baixo custo para o passageiro, transporte rodoviário coletivo é vital para regiões mais isoladas e para a inclusão social de grande parte da população que depende desse modal para se locomover.
 
-- <b>Rodoviaria</b>: 
 <p align="center">
 <img width="606" height="271" alt="Image" src="https://github.com/user-attachments/assets/6dbfa192-4a63-4f7c-b9c8-8d3c4a83c99c" /></a></p>
+
+Alguns dados reforçam a importante do setor de transporte coletivo para a população brasileira:
 
 - 60% das pessoas ainda compram passagem de ônibus na rodoviária [pesquisa BlaBlaCar, 2024].
 
@@ -29,7 +30,11 @@ No Brasil Ônibus são os preferidos para 29% dos turistas brasileiros, aponta p
 
 - Viagens rodoviárias crescem 33% no primeiro semestre do ano e movimentam o turismo nacional, O setor rodoviário interestadual encerrou o primeiro semestre de 2024 com um expressivo aumento de 33% no número de passageiros [Agencia Gov, 2025]
 
-- <b>Totem Rodoviaria</b>: 
+No Brasil, mesmo com tamanha relevância, o setor de transporte coletivo interestadual apresenta uma necessidade evidente de digitalização e adoção de tecnologias da informação para aumentar a eficiência nos processos de atendimento e melhorar a experiência dos clientes. Nos últimos anos, observamos o surgimento de diversas empresas que desenvolvem soluções para esse segmento, como ClickBus, Quero Passagem, Wemobi, MobilFacil, FlixBus e RodoviariaOnline.
+
+Mesmo com o surgimento de várias empresas e soluções digitais voltadas para o transporte coletivo, os terminais de autoatendimento ainda são pouco utilizados em rodoviárias ou terminais rodoviários, com aplicações limitadas a consultas ou sistemas de pagamento. Esses terminais podem consolidar uma série de serviços e facilidades para clientes e passageiros: os viajantes podem utilizá-los para fazer check-in, imprimir bilhetes, ler documentos de identidade, obter informações sobre o local, pagar estacionamento e gerenciar cartões de transporte, sem precisar enfrentar filas, este pacote de serviços podem ser potencializados com o uso de inteligência artificial [IA]. 
+
+- <b>Totens em Rodoviárias e Terminais</b>: 
 <p align="center">
 <img width="569" height="337" alt="Image" src="https://github.com/user-attachments/assets/1b9baad6-2afe-4537-ad55-996c05de27dc" /></a></p>
 
