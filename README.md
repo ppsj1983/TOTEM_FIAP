@@ -1,4 +1,3 @@
-
 # FIAP - Faculdade de Informática e Administração Paulista
 
 <br>
@@ -16,6 +15,15 @@
 
 ## 📜 Introdução
 
+- <b>.Totem Rodoviaria</b>: 
+<p align="center">
+<img width="569" height="337" alt="Image" src="https://github.com/user-attachments/assets/1b9baad6-2afe-4537-ad55-996c05de27dc" /></a>
+</p>
+
+- <b>.Rodoviaria</b>: 
+<p align="center">
+<img width="606" height="271" alt="Image" src="https://github.com/user-attachments/assets/6dbfa192-4a63-4f7c-b9c8-8d3c4a83c99c" /></a>
+</p>
 
 ## 📜 Tema Global Solution 2025 - 2º Semestre
 
@@ -34,21 +42,25 @@
 
 ## 🔧 Referências
 
-*Bellet, Clement and De Neve, Jan-Emmanuel and Ward, George, Does Employee Happiness have an Impact on Productivity? (October 14, 2019). Saïd Business School WP 2019-13, Available at SSRN: https://ssrn.com/abstract=3470734 or http://dx.doi.org/10.2139/ssrn.3470734*
+https://www.china-creator.com/info/the-complete-guide-to-self-service-kiosks-102949117.html
 
-*Eliyana, A., Ma’arif, S., & Muzakki (2019). Job Satisfaction and Organizational Commitment Effect in the Transformational Leadership towards Employee Performance. European Research on Management and Business Economics, 25, 144-150.
-https://doi.org/10.1016/j.iedeen.2019.05.001*
+https://advancedkiosks.com/self-service-kiosks-a-to-z/
 
-*Palupi, D. A. P., Cahjono, M. P., & Satyawati, E. (2017). Effect of leadership on the job satisfaction with organizational commitment and trust in leader as mediators. Review of Integrative Business and Economics Research Preview, 6(4), 400–408.*
+https://www.tpgi.com/what-is-a-self-service-kiosk-device/
 
-*Ratnasahara, D. E., Wardhani, P. S., & Rohman, M. F. (2025). The effect of transformational leadership  style  on  employee  performance  through  job  satisfaction  as  a mediating variable.  World  Journal  Of  Advanced  Research  and  Reviews,  25(1),  1072–1078. https://doi.org/10.30574/wjarr.2025.25.1.0172*
+https://www.bestkiosk.com/the-impact-of-self-service-kiosks-on-customer-satisfaction/
 
-*SIQUEIRA, Mirlene Maria Matias (org.). Medidas do comportamento organizacional: ferramentas de diagnóstico e de gestão. Porto Alegre:
-Artmed, 2008.*
+https://www.wavetec.com/blog/self-service/self-service-changing-consumer-behavior/
 
-*BERGAMINI, Cecília Whitaker ; CODA, Roberto. Psicodinâmica da vida organizacional: motivação e liderança. 2. ed. São Paulo, SP: Atlas, 1997.*
+https://oemkiosks.com/papers/Self%20Service%20Kiosks.pdf
 
-*JONES, Lidine. The State of Work 2023. Slack from Salesforece.* 
+https://arxiv.org/pdf/2105.07445
+
+https://www.restroworks.com/blog/self-ordering-kiosk-restaurant-statistics/
+
+http://kiosk.com/8-best-practices-for-digital-signage-content-a-guide-for-high-impact-kiosks/
+
+https://squareup.com/au/en/the-bottom-line/selling-anywhere/self-serve-kiosks-businesses-explainer
 
 
 ## 🗃 Histórico de lançamentos
