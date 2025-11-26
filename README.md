@@ -42,6 +42,7 @@ A utilização de totens como canal de atendimento atende a um dos requisitos ma
 
 A utilização de totens de atendimento deve considerar a **privacidade dos usuários como requisito essencial** para seu funcionamento. A proteção da privacidade física é tão relevante quanto a segurança digital. Em ambientes movimentados, usuários que interagem com quiosques podem ter suas informações pessoais expostas a terceiros próximos, o que aumenta significativamente o risco de roubo de identidade ou fraude [Wavetec, 2025].
 
+Os quiosques de autoatendimento permitem a **adaptação das opções**, atendendo facilmente às preferências dos clientes. Os clientes podem personalizar seus pedidos, selecionar recursos específicos, adicionar instruções ou adaptar os serviços para atender às suas necessidades exclusivas [wavetec, 2025]. 
 
 - <b>Totens em Rodoviárias e Terminais</b>: 
 <p align="center">
