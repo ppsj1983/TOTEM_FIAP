@@ -40,6 +40,9 @@ A utilização de totens como canais de atendimento atendem as expectativas de u
 
 A utilização de totens como canal de atendimento atende a um dos requisitos mais importantes para muitos consumidores: **a agilidade na resposta**. O tempo de resposta rápido é o atributo mais valorizado na experiência do cliente e, no contexto do autoatendimento, isso significa adotar uma estratégia omnichannel, oferecendo múltiplas opções que garantam praticidade e eficiência.
 
+A utilização de totens de atendimento deve considerar a **privacidade dos usuários como requisito essencial** para seu funcionamento. A proteção da privacidade física é tão relevante quanto a segurança digital. Em ambientes movimentados, usuários que interagem com quiosques podem ter suas informações pessoais expostas a terceiros próximos, o que aumenta significativamente o risco de roubo de identidade ou fraude [Wavetec, 2025].
+
+
 - <b>Totens em Rodoviárias e Terminais</b>: 
 <p align="center">
 <img width="569" height="337" alt="Image" src="https://github.com/user-attachments/assets/1b9baad6-2afe-4537-ad55-996c05de27dc" /></a></p>
