@@ -38,7 +38,7 @@ Um totem – também conhecido como sistema de ponto de venda (PDV) de autoatend
 
 A utilização de totens como canais de atendimento atendem as expectativas de uma parte relevante dos clientes, 67% dos clientes preferem o autoatendimento a falar com um agente de suporte [Zendesk, 2023] e 73% dos clientes desejam ter a possibilidade de **resolver problemas de forma independente [Hubspot, 2023]**. 
 
-A utilização de totens como canal de atendimento atende a um dos requisitos mais importantes para muitos consumidores: **a agilidade na resposta**. O tempo de resposta rápido é o atributo mais valorizado na experiência do cliente e, no contexto do autoatendimento, isso significa adotar uma estratégia omnichannel, oferecendo múltiplas opções que garantam praticidade e eficiência.
+A utilização de totens como canal de atendimento atende a um dos requisitos mais importantes para muitos consumidores: **a agilidade na resposta**. O tempo de resposta rápido é o atributo mais valorizado na experiência do cliente e, no contexto do autoatendimento, isso significa adotar uma estratégia omnichannel, oferecendo múltiplas opções que garantam praticidade e eficiência  [Wavetec, 2025].
 
 A utilização de totens de atendimento deve considerar a **privacidade dos usuários como requisito essencial** para seu funcionamento. A proteção da privacidade física é tão relevante quanto a segurança digital. Em ambientes movimentados, usuários que interagem com quiosques podem ter suas informações pessoais expostas a terceiros próximos, o que aumenta significativamente o risco de roubo de identidade ou fraude [Wavetec, 2025].
 
