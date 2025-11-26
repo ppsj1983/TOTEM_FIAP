@@ -34,6 +34,10 @@ No Brasil, mesmo com tamanha relevância, o setor de transporte coletivo interes
 
 Mesmo com o surgimento de várias empresas e soluções digitais voltadas para o transporte coletivo, os terminais de autoatendimento ainda são pouco utilizados em rodoviárias ou terminais rodoviários, com aplicações limitadas a consultas ou sistemas de pagamento. Esses terminais podem consolidar uma série de serviços e facilidades para clientes e passageiros: os viajantes podem utilizá-los para fazer check-in, imprimir bilhetes, ler documentos de identidade, obter informações sobre o local, pagar estacionamento e gerenciar cartões de transporte, sem precisar enfrentar filas, este pacote de serviços podem ser potencializados com o uso de inteligência artificial [IA]. 
 
+Um totem – também conhecido como sistema de ponto de venda (PDV) de autoatendimento – é um dispositivo interativo com tela sensível ao toque que permite aos clientes comprar produtos ou serviços sem a assistência de funcionários. Inclui componentes de hardware e software que permitem aos clientes navegar pelos itens, fazer pedidos, validar documentação, pequisa e por fim realizar processos de pagamentos forma independente. A utilização de totens como canais de atendimento atendem as expectativas de uma parte relevante dos clientes, 67% dos clientes preferem o autoatendimento a falar com um agente de suporte [Zendesk, 2023] e 73% dos clientes desejam ter a possibilidade de resolver problemas de forma independent[Hubspot, 2023]. 
+
+
+
 - <b>Totens em Rodoviárias e Terminais</b>: 
 <p align="center">
 <img width="569" height="337" alt="Image" src="https://github.com/user-attachments/assets/1b9baad6-2afe-4537-ad55-996c05de27dc" /></a></p>
