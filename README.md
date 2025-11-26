@@ -81,6 +81,13 @@ http://kiosk.com/8-best-practices-for-digital-signage-content-a-guide-for-high-i
 
 https://squareup.com/au/en/the-bottom-line/selling-anywhere/self-serve-kiosks-businesses-explainer
 
+https://www.zendesk.com.br/blog/searching-for-self-service/#
+
+https://blog.hubspot.com/service/self-service-stats
+
+https://www.forbes.com/councils/forbestechcouncil/2023/05/19/the-changing-face-of-customer-experience-in-the-self-service-economy/
+
+https://www.wavetec.com/blog/self-service/self-service-changing-consumer-behavior/
 
 ## 🗃 Histórico de lançamentos
 
