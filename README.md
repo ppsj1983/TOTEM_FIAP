@@ -61,7 +61,19 @@ A implantação de um totem de em terminais rodoviários deve atender aos seguin
 Além disso, o terminal de autoatendimento deve ser considerado não apenas como um ponto de suporte, mas também como um canal estratégico para **coleta de informações de clientes potenciais e daqueles com vendas já concluídas**, possibilitando a geração de informações para melhoria de ofertas comercial e utilização de IA [Inteligencia Artificial]
 
 ## 📜 Proposta
+O sistema proposto deve contemplar as seguintes funcionalidades essenciais:
 
+**Processamento de Pagamentos:** Garantir um fluxo seguro e ágil para a realização de pagamentos, com suporte a múltiplos meios (cartão, PIX, etc.).
+
+**Integração de Ofertas de Passagens:** Consolidar informações de diversas empresas de transporte rodoviário, permitindo ao usuário comparar e adquirir passagens de forma centralizada.
+
+**Cobertura Nacional:** Disponibilizar atendimento nos principais terminais rodoviários do Brasil, assegurando escalabilidade e padronização da experiência.
+
+**Coleta Dados:** Capturar informações dos usuários para direcionamento de ofertas, análise de demanda, estudo de fluxo de visitantes e perfil de viagens, respeitando normas de privacidade.
+
+**Módulo de Inteligência Artificial (IA):** Gerar relatórios personalizados com sugestões de hospedagem, agenda de eventos, previsão climática, restaurantes, hospitais, templos religiosos, entre outros. O envio deve ocorrer conforme a preferência do usuário, via e-mail cadastrado ou celular.
+
+**Aplicação de Machine Learning:** Identificar ofertas não efetivadas, mas com alto potencial de aceitação, considerando histórico de interações e comportamento de outros usuários. Utilizar as previsões do modelo para direcionaemnto de ofertas e estratégias de descontos para aumentar a conversão.
 
 ## 📁 Proposta
  
