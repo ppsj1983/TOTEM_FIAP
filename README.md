@@ -77,13 +77,6 @@ O sistema proposto deve contemplar as seguintes funcionalidades essenciais:
 
 ## 📁 Desenvolvimento 2ª Etapa ~ Enterprise Challenge - Sprint 2 - FlexMedia [Sensores, Estrutura de Dados e Aplicações]
  
-
-## 🔧 Desenvolvimento
-
-
-## 🔧 Resultados
-
-
 ## 🔧 Referências
 
 https://www.china-creator.com/info/the-complete-guide-to-self-service-kiosks-102949117.html
