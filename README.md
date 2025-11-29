@@ -108,34 +108,37 @@ O sistema proposto deve contemplar as seguintes funcionalidades essenciais:
 <p align="center">
 <img width="419" height="248" alt="Image" src="https://github.com/user-attachments/assets/025145dd-9c08-40e1-a21e-4678666eed31" /></a></p>
 
-- <b>Oportunidade de Ofertas por cidade - direcionamento de ações comerciais</b>: com base nesta informações de PREDICAO_VENDA, podemos avaliar o potencial de interações sem sucesso na efetivação da venda comercial, formulando novas estratégias comerciais, descontos e ofertas direcionadas para usuários com cadastro de celular ou email.
+- <b>Oportunidade de Ofertas por cidade - direcionamento de ações comerciais</b>: Com base nas informações de PREDICAO_VENDAS, é possível identificar o potencial de interações que não resultaram na efetivação da venda. A partir dessa análise, podemos desenvolver novas estratégias comerciais, como a criação de descontos e ofertas personalizadas, direcionadas especialmente para usuários que possuem cadastro com número de celular ou e-mail.
 <p align="center">
 <img width="722" height="425" alt="Image" src="https://github.com/user-attachments/assets/08477d22-fbbf-49fc-951a-1d7741768950" /></a></p>
 
-- <b>Estudo - Preço Médio Destino</b>: 
+- <b>Estudo - Preço Médio Destino</b>: A estrutura de dados coletará dados para diversas analises (Efetividade por destiono)
 <p align="center">
 <img width="717" height="364" alt="Image" src="https://github.com/user-attachments/assets/c62d63b5-0e0d-4e80-b36a-54a7aae72154" /></a></p>
 
-- <b>Estudo - Tempo Médio Sessão</b>: 
+- <b>Estudo - Efetividade por Idade</b>: A estrutura de dados coletará dados para diversas analises (Efetividade por idade do Usuário)
 <p align="center">
 <img width="709" height="408" alt="Image" src="https://github.com/user-attachments/assets/17c4c786-b683-4580-ba95-36b1939d0ebc" /></a></p>
 
-- <b>Estudo - Efetividade de venda de passagem considerando a quantidade de toques</b>: 
+- <b>Estudo - Efetividade de venda de passagem considerando a quantidade de toques</b>: Uma dimensão relevante para análise é a taxa de efetividade das vendas de passagens, considerando as interações realizadas nos terminais. Essa métrica, ilustrada no gráfico a seguir, permite avaliar o desempenho do processo e identificar oportunidades de melhoria.
 <p align="center">
 <img width="719" height="412" alt="Image" src="https://github.com/user-attachments/assets/65b86ac8-a4de-418e-b173-8e4ce5e69d4c" /></a></p>
 
-- <b>Estudo - Efetividade de Venda por cidade</b>: 
+- <b>Estudo - Efetividade de Venda por cidade</b>: A estrutura de dados coletará dados para diversas analises (Efetividade por Cidade)
 <p align="center">
 <img width="721" height="425" alt="Image" src="https://github.com/user-attachments/assets/1c6df78d-e429-4bfd-994a-4b822143f861" /></a></p>
 
-- <b>Estudo - Qualidade de Clientes com aceitação de recebimento de sugestoes para viagens</b>: 
+- <b>Estudo - Qualidade de Clientes com aceitação de recebimento de sugestoes para viagens</b>: Para interagir com os usuários, o sistema solicitará a autorização para o recebimento de informações como dados de viagens, roteiros e condições climáticas. Esses dados são fundamentais para direcionar estratégias de fidelização e personalizar ofertas comerciais de passagens.
 <p align="center">
 <img width="601" height="380" alt="Image" src="https://github.com/user-attachments/assets/9a650718-a1fa-43ba-8f55-28b6798a4c53" /></a></p>
 
-- <b>Linha para Pesquisa de IA - Dados para envio de mensagens e fidelização de clientes</b>: 
+- <b>Linha para Pesquisa de IA - Dados para envio de mensagens e fidelização de clientes</b>: o sistema consolidará uma estrutura de dados voltada para pesquisas em plataformas de IA. Essas informações serão aplicadas para fortalecer estratégias de fidelização, aprimorar a interação com usuários potenciais e promover melhorias nos terminais de autoatendimento.
 <p align="center">
 <img width="715" height="338" alt="Image" src="https://github.com/user-attachments/assets/77a7d1e8-0b5b-4ff1-85c4-e82ed6606d49" /></a></p>
- 
+
+## 🔧 Proximos Passos
+Desenvolvimento de aplicação de inteligencia comercial com foco em fidelização de clientes e direcionamento de ofertas
+
 ## 🔧 Referências
 
 https://www.china-creator.com/info/the-complete-guide-to-self-service-kiosks-102949117.html
