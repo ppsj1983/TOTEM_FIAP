@@ -76,6 +76,50 @@ O sistema proposto deve contemplar as seguintes funcionalidades essenciais:
 **Aplicação de Machine Learning:** Identificar ofertas não efetivadas, mas com alto potencial de aceitação, considerando histórico de interações e comportamento de outros usuários. Utilizar as previsões do modelo para direcionaemnto de ofertas e estratégias de descontos para aumentar a conversão.
 
 ## 📁 Desenvolvimento 2ª Etapa ~ Enterprise Challenge - Sprint 2 - FlexMedia [Sensores, Estrutura de Dados e Aplicações]
+
+- <b>Banco de dados</b>: 
+<p align="center">
+<img width="233" height="263" alt="Image" src="https://github.com/user-attachments/assets/69e375c4-f6b2-4baf-824e-d8d831db5a23" /></a></p>
+
+- <b>Tabela banco de dados</b>: 
+<p align="center">
+<img width="733" height="443" alt="Image" src="https://github.com/user-attachments/assets/0977f099-51de-4995-ae05-9b060da720b9" /></a></p>
+
+- <b>Captura de Toques e Captura de Contados</b>: 
+<p align="center">
+<img width="536" height="247" alt="Image" src="https://github.com/user-attachments/assets/5616d82a-b072-43d4-8f3d-20fc78d7985b" /></a></p>
+
+- <b>Predição Vendas e Oportunidades de Oferta - Acuracia</b>: 
+<p align="center">
+<img width="419" height="248" alt="Image" src="https://github.com/user-attachments/assets/025145dd-9c08-40e1-a21e-4678666eed31" /></a></p>
+
+- <b>Oportunidade de Ofertas por cidade - direcionamento de ações comerciais</b>: 
+<p align="center">
+<img width="722" height="425" alt="Image" src="https://github.com/user-attachments/assets/08477d22-fbbf-49fc-951a-1d7741768950" /></a></p>
+
+- <b>Estudo - Preço Médio Destino</b>: 
+<p align="center">
+<img width="717" height="364" alt="Image" src="https://github.com/user-attachments/assets/c62d63b5-0e0d-4e80-b36a-54a7aae72154" /></a></p>
+
+- <b>Estudo - Tempo Médio Sessão</b>: 
+<p align="center">
+<img width="709" height="408" alt="Image" src="https://github.com/user-attachments/assets/17c4c786-b683-4580-ba95-36b1939d0ebc" /></a></p>
+
+- <b>Estudo - Efetividade de venda de passagem considerando a quantidade de toques</b>: 
+<p align="center">
+<img width="719" height="412" alt="Image" src="https://github.com/user-attachments/assets/65b86ac8-a4de-418e-b173-8e4ce5e69d4c" /></a></p>
+
+- <b>Estudo - Efetividade de Venda por cidade</b>: 
+<p align="center">
+<img width="721" height="425" alt="Image" src="https://github.com/user-attachments/assets/1c6df78d-e429-4bfd-994a-4b822143f861" /></a></p>
+
+- <b>Estudo - Qualidade de Clientes com aceitação de recebimento de sugestoes para viagens</b>: 
+<p align="center">
+<img width="601" height="380" alt="Image" src="https://github.com/user-attachments/assets/9a650718-a1fa-43ba-8f55-28b6798a4c53" /></a></p>
+
+- <b>Linha para Pesquisa de IA - Dados para envio de mensagens e fidelização de clientes</b>: 
+<p align="center">
+<img width="715" height="338" alt="Image" src="https://github.com/user-attachments/assets/77a7d1e8-0b5b-4ff1-85c4-e82ed6606d49" /></a></p>
  
 ## 🔧 Referências
 
