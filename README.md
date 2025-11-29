@@ -48,7 +48,7 @@ Os quiosques de autoatendimento permitem a **adaptação das opções**, atenden
 <p align="center">
 <img width="569" height="337" alt="Image" src="https://github.com/user-attachments/assets/1b9baad6-2afe-4537-ad55-996c05de27dc" /></a></p>
 
-A implantação de um totem de em terminais rodoviários deve atender aos seguintes requisitos fundamentais:
+A implantação de um totem em terminais rodoviários deve atender aos seguintes requisitos:
 
 **Autonomia na resolução de problemas:** O sistema deve ser capaz de operar de forma independente, minimizando a necessidade de intervenção humana.
 
@@ -75,7 +75,7 @@ O sistema proposto deve contemplar as seguintes funcionalidades essenciais:
 
 **Aplicação de Machine Learning:** Identificar ofertas não efetivadas, mas com alto potencial de aceitação, considerando histórico de interações e comportamento de outros usuários. Utilizar as previsões do modelo para direcionaemnto de ofertas e estratégias de descontos para aumentar a conversão.
 
-## 📁 Proposta
+## 📁 Desenvolvimento 2ª Etapa ~ Enterprise Challenge - Sprint 2 - FlexMedia
  
 
 ## 🔧 Desenvolvimento
