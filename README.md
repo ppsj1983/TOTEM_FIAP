@@ -75,7 +75,7 @@ O sistema proposto deve contemplar as seguintes funcionalidades essenciais:
 
 **Aplicação de Machine Learning:** Identificar ofertas não efetivadas, mas com alto potencial de aceitação, considerando histórico de interações e comportamento de outros usuários. Utilizar as previsões do modelo para direcionaemnto de ofertas e estratégias de descontos para aumentar a conversão.
 
-## 📁 Desenvolvimento 2ª Etapa ~ Enterprise Challenge - Sprint 2 - FlexMedia
+## 📁 Desenvolvimento 2ª Etapa ~ Enterprise Challenge - Sprint 2 - FlexMedia [Sensores, Estrutura de Dados e Aplicações]
  
 
 ## 🔧 Desenvolvimento
