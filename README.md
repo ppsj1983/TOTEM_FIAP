@@ -77,15 +77,29 @@ O sistema proposto deve contemplar as seguintes funcionalidades essenciais:
 
 ## 📁 Desenvolvimento 2ª Etapa ~ Enterprise Challenge - Sprint 2 - FlexMedia [Sensores, Estrutura de Dados e Aplicações]
 
-- <b>Banco de dados</b>: 
+- <b>Banco de dados</b>: Bando de dados FIAP e criação da tabela MODELO_TOTEM para o projeto FlexMedia
 <p align="center">
 <img width="233" height="263" alt="Image" src="https://github.com/user-attachments/assets/69e375c4-f6b2-4baf-824e-d8d831db5a23" /></a></p>
 
-- <b>Tabela banco de dados</b>: 
+- <b>Tabela banco de dados</b>: A tabela MODELO_TOTEM foi projetada para capturar informações relevantes sobre a interação do usuário e os detalhes da viagem, contemplando os seguintes grupos de dados:
+
+   *Terminal de Autoatendimento:* Tempo de sessão e Quantidade de toques na tela
+
+   *Informações do Destino:* Local do destino e Data da partida
+
+   *Informações da Viagem:* Tipo de hospedagem, Número de passageiros e Período de permanência
+
+   *Informações do Usuário:* Dados de contato e Faixa etária
+  
+
 <p align="center">
 <img width="733" height="443" alt="Image" src="https://github.com/user-attachments/assets/0977f099-51de-4995-ae05-9b060da720b9" /></a></p>
 
-- <b>Captura de Toques e Captura de Contados</b>: 
+- <b>Captura de Informações para aplicações de IA e Machine Learning</b>: Durante as interações no totem, o sistema registrará dados como quantidade de toques na tela, intensidade dos toques, celular e e-mail do usuário, essas informações serão utilizadas para direcionar ações estratégicas, aplicando técnicas de Inteligência Artificial (IA) e Machine Learning para:
+  1) **Personalização de ofertas**
+  2) **Previsão de comportamento**
+  3) **Otimização da experiência do usuário**
+
 <p align="center">
 <img width="536" height="247" alt="Image" src="https://github.com/user-attachments/assets/5616d82a-b072-43d4-8f3d-20fc78d7985b" /></a></p>
 
