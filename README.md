@@ -48,6 +48,18 @@ Os quiosques de autoatendimento permitem a **adaptação das opções**, atenden
 <p align="center">
 <img width="569" height="337" alt="Image" src="https://github.com/user-attachments/assets/1b9baad6-2afe-4537-ad55-996c05de27dc" /></a></p>
 
+A implantação de um totem de em terminais rodoviários deve atender aos seguintes requisitos fundamentais:
+
+**Autonomia na resolução de problemas:** O sistema deve ser capaz de operar de forma independente, minimizando a necessidade de intervenção humana.
+
+**Agilidade na resposta:** As interações devem ser rápidas e intuitivas, garantindo uma experiência eficiente para o usuário.
+
+**Privacidade como requisito essencial:** É imprescindível assegurar a proteção dos dados pessoais e a confidencialidade das informações fornecidas pelos usuários.
+
+**Adaptação das opções:** O totem deve oferecer um pacote de opções para ajustar a demanda dos usuários conforme diferentes perfis e necessidades.
+
+Além disso, o terminal de autoatendimento deve ser considerado não apenas como um ponto de suporte, mas também como um canal estratégico para **coleta de informações de clientes potenciais e daqueles com vendas já concluídas**, possibilitando a geração de informações para melhoria de ofertas comercial e utilização de IA [Inteligencia Artificial]
+
 ## 📜 Proposta
 
 
