@@ -103,11 +103,12 @@ O sistema proposto deve contemplar as seguintes funcionalidades essenciais:
 <p align="center">
 <img width="536" height="247" alt="Image" src="https://github.com/user-attachments/assets/5616d82a-b072-43d4-8f3d-20fc78d7985b" /></a></p>
 
-- <b>Predição Vendas e Oportunidades de Oferta - Acuracia</b>: 
+- <b>Predição Vendas e Oportunidades de Oferta - Acuracia</b>: A primeira proposta de aplicação do sistema de autoatendimento em Terminal rodoviário trata-se de um modelo de machine learning baseado em arvore de decisão com foco em identificação interações sem a efetividade da venda da passagem onibus coletivo rodoviário, neste modelo utilizamos as variaveis X = dados[['TESTE_TEMPO_SESSAO', 'TRAJETO', 'FAIXA_ETARIA', 'TIPO_HOSPEDAGEM', 'MOTIVO_VIAGEM', 'TOQUES_TELA']] para predição do y = dados['TESTE_SUCESSO_VENDA']
+- na simulação desta versão o teste de acuracia apontou para 44%, nesta etapa utilizamos dados aleatórios 
 <p align="center">
 <img width="419" height="248" alt="Image" src="https://github.com/user-attachments/assets/025145dd-9c08-40e1-a21e-4678666eed31" /></a></p>
 
-- <b>Oportunidade de Ofertas por cidade - direcionamento de ações comerciais</b>: 
+- <b>Oportunidade de Ofertas por cidade - direcionamento de ações comerciais</b>: com base nesta informações de PREDICAO_VENDA, podemos avaliar o potencial de interações sem sucesso na efetivação da venda comercial, formulando novas estratégias comerciais, descontos e ofertas direcionadas para usuários com cadastro de celular ou email.
 <p align="center">
 <img width="722" height="425" alt="Image" src="https://github.com/user-attachments/assets/08477d22-fbbf-49fc-951a-1d7741768950" /></a></p>
 
