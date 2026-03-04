@@ -110,6 +110,11 @@ Intensidade Alta (TOQUE_ALTA): Duração > 600ms | LED Verde
 
 *Nota: Os LEDs são utilizados exclusivamente para monitoramento do desempenho e depuração do sistema em tempo real.*
 
+Ao finalizar o formulário de pesquisa de passagens, o sistema consolidará os dados de frequência e intensidade de cada toque. Estas métricas serão integradas a um modelo preditivo para análise de comportamento, permitindo o direcionamento estratégico de ofertas personalizadas para clientes potenciais.
+
+<img width="569" height="153" alt="Image" src="https://github.com/user-attachments/assets/5dcd2851-27a6-4b85-a8e5-9cecf836373f" /></a></p>
+
+
 - <b>Banco de dados</b>: Bando de dados FIAP e criação da tabela MODELO_TOTEM para o projeto FlexMedia
 <p align="center">
 <img width="233" height="263" alt="Image" src="https://github.com/user-attachments/assets/69e375c4-f6b2-4baf-824e-d8d831db5a23" /></a></p>
