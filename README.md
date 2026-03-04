@@ -78,7 +78,7 @@ O sistema proposto deve contemplar as seguintes funcionalidades essenciais:
 ## 📁 Desenvolvimento 3ª Etapa ~ Enterprise Challenge - Sprint 3 - FlexMedia [Sensores, Estrutura de Dados e Aplicações]
 - <b>Integração</b>: Macro fluxo exemplificando integração para coleta de dados de sensores.
 <p align="center">
-<<img width="640" height="337" alt="Image" src="https://github.com/user-attachments/assets/ee5a1056-be45-40b1-93f4-a6c550d5d5c2" />></a></p>
+<img width="640" height="337" alt="Image" src="https://github.com/user-attachments/assets/ee5a1056-be45-40b1-93f4-a6c550d5d5c2" />></a></p>
 
 *Etapa 1: Input de Sensores:* Emulação de clique em tela de totem.
 
@@ -87,6 +87,28 @@ O sistema proposto deve contemplar as seguintes funcionalidades essenciais:
 *Etapa 3: Output de Sensores:* Métricas de frequência e pressão de toque.
 
 *Etapa 4: Camada de Dados:* Estruturação e armazenamento das informações coletadas.
+
+- <b>Sensores para Avaliação de Intensidade de Toque</b>: Ambiente de simulação o codigo desenvolvido na plataforma Wokwi.
+<p align="center">
+<img width="569" height="337" alt="Image" src="https://github.com/user-attachments/assets/2739c872-0883-4ea9-9575-7322ac0cb67a"></a></p>
+
+*Aplicação considera os seguintes Controles e Indicadores do Sistema:*
+
+Controle de Fluxo: Botão mestre para acionamento do início e encerramento do preenchimento do formulário.
+
+Mapeamento de Campos: Botão dedicado para cada etapa/campo, configurado com lógica de sensibilidade temporal para medir a intensidade do toque (em milissegundos).
+
+Lógica de Classificação e Feedback Visual:
+
+O sistema avalia a pressão exercida na tela com base na duração do contato, utilizando LEDs para validação visual imediata:
+
+Intensidade Baixa (TOQUE_BAIXO): Duração < 300ms | LED Roxo
+
+Intensidade Média (TOQUE_MEDIA): Duração entre 300ms e 600ms | LED Azul
+
+Intensidade Alta (TOQUE_ALTA): Duração > 600ms | LED Verde
+
+*Nota: Os LEDs são utilizados exclusivamente para monitoramento do desempenho e depuração do sistema em tempo real.*
 
 - <b>Banco de dados</b>: Bando de dados FIAP e criação da tabela MODELO_TOTEM para o projeto FlexMedia
 <p align="center">
