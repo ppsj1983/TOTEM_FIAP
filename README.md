@@ -75,7 +75,18 @@ O sistema proposto deve contemplar as seguintes funcionalidades essenciais:
 
 **Aplicação de Machine Learning:** Identificar ofertas não efetivadas, mas com alto potencial de aceitação, considerando histórico de interações e comportamento de outros usuários. Utilizar as previsões do modelo para direcionaemnto de ofertas e estratégias de descontos para aumentar a conversão.
 
-## 📁 Desenvolvimento 2ª Etapa ~ Enterprise Challenge - Sprint 2 - FlexMedia [Sensores, Estrutura de Dados e Aplicações]
+## 📁 Desenvolvimento 3ª Etapa ~ Enterprise Challenge - Sprint 3 - FlexMedia [Sensores, Estrutura de Dados e Aplicações]
+- <b>Integração</b>: Macro fluxo exemplificando integração para coleta de dados de sensores.
+<p align="center">
+<<img width="640" height="337" alt="Image" src="https://github.com/user-attachments/assets/ee5a1056-be45-40b1-93f4-a6c550d5d5c2" />></a></p>
+
+*Etapa 1: Input de Sensores:* Emulação de clique em tela de totem.
+
+*Etapa 2: Processamento de Dados:* Algoritmo para cálculo de nível de intensidade.
+
+*Etapa 3: Output de Sensores:* Métricas de frequência e pressão de toque.
+
+*Etapa 4: Camada de Dados:* Estruturação e armazenamento das informações coletadas.
 
 - <b>Banco de dados</b>: Bando de dados FIAP e criação da tabela MODELO_TOTEM para o projeto FlexMedia
 <p align="center">
