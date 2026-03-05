@@ -189,7 +189,8 @@ Ao finalizar o formulário de pesquisa de passagens, o sistema consolidará os d
 <img width="715" height="338" alt="Image" src="https://github.com/user-attachments/assets/77a7d1e8-0b5b-4ff1-85c4-e82ed6606d49" /></a></p>
 
 ## 🔧 Proximos Passos
-Desenvolvimento de aplicação de inteligencia comercial com foco em fidelização de clientes e direcionamento de ofertas
+- Integração dados sensores ESP32 ao banco de dados
+- Desenvolvimento de aplicação de inteligencia comercial com foco em fidelização de clientes e direcionamento de ofertas
 
 ## 🔧 Referências
 
