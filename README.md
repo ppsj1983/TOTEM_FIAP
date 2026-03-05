@@ -88,6 +88,7 @@ O sistema proposto deve contemplar as seguintes funcionalidades essenciais:
 
 *Etapa 4: Camada de Dados:* Estruturação e armazenamento das informações coletadas.
 
+## 📜 Sensores e Captura de Interações - ESP32 Ambiente de Simulação Wokwi
 - <b>Sensores para Avaliação de Intensidade de Toque</b>: Ambiente de simulação o codigo desenvolvido na plataforma Wokwi.
 <p align="center">
 <img width="569" height="337" alt="Image" src="https://github.com/user-attachments/assets/2739c872-0883-4ea9-9575-7322ac0cb67a"></a></p>
@@ -114,7 +115,7 @@ Ao finalizar o formulário de pesquisa de passagens, o sistema consolidará os d
 
 <img width="569" height="153" alt="Image" src="https://github.com/user-attachments/assets/5dcd2851-27a6-4b85-a8e5-9cecf836373f" /></a></p>
 
-
+## 📜 Estrutura do Banco de Dados
 - <b>Banco de dados</b>: Bando de dados FIAP e criação da tabela MODELO_TOTEM para o projeto FlexMedia
 <p align="center">
 <img width="233" height="263" alt="Image" src="https://github.com/user-attachments/assets/69e375c4-f6b2-4baf-824e-d8d831db5a23" /></a></p>
@@ -141,6 +142,7 @@ Ao finalizar o formulário de pesquisa de passagens, o sistema consolidará os d
 <p align="center">
 <img width="536" height="247" alt="Image" src="https://github.com/user-attachments/assets/5616d82a-b072-43d4-8f3d-20fc78d7985b" /></a></p>
 
+## 📜 Algoritmo para Identificação de Oportunidades de Vendas de Passagens e Direcionamento dee Ofertas - Biblioteca Sklearn
 - <b>Predição Vendas e Oportunidades de Oferta - Algoritmo</b>: Nesta etapa utilizamos o algoritmo DecisionTreeClassifier biblioteca Sklearn, trata-se de um modelo de machine learning baseado em arvore de decisão com foco em identificação interações sem a efetividade da venda da passagem onibus coletivo rodoviário, neste modelo utilizamos as variaveis X = dados[['TESTE_TEMPO_SESSAO', 'TRAJETO', 'FAIXA_ETARIA', 'TIPO_HOSPEDAGEM', 'MOTIVO_VIAGEM', 'TOQUES_TELA']] para predição do y = dados['TESTE_SUCESSO_VENDA'], o objetivo deste algoritmo é identificar vendas potenciais não efetivas, gerando informações para direcionamento de ofertas e identificação de clientes potenciais.
 
 <p align="center">
@@ -157,6 +159,7 @@ Ao finalizar o formulário de pesquisa de passagens, o sistema consolidará os d
 <p align="center">
 <img width="419" height="248" alt="Image" src="https://github.com/user-attachments/assets/025145dd-9c08-40e1-a21e-4678666eed31" /></a></p>
 
+## 📜 Análise de Dados - Biblioteca import Matplotlib.pyplot 
 - <b>Oportunidade de Ofertas por cidade - direcionamento de ações comerciais</b>: Com base nas informações de PREDICAO_VENDAS, é possível identificar o potencial de interações que não resultaram na efetivação da venda. A partir dessa análise, podemos desenvolver novas estratégias comerciais, como a criação de descontos e ofertas personalizadas, direcionadas especialmente para usuários que possuem cadastro com número de celular ou e-mail.
 <p align="center">
 <img width="722" height="425" alt="Image" src="https://github.com/user-attachments/assets/08477d22-fbbf-49fc-951a-1d7741768950" /></a></p>
