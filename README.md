@@ -141,6 +141,17 @@ Ao finalizar o formulário de pesquisa de passagens, o sistema consolidará os d
 <p align="center">
 <img width="536" height="247" alt="Image" src="https://github.com/user-attachments/assets/5616d82a-b072-43d4-8f3d-20fc78d7985b" /></a></p>
 
+- <b>Predição Vendas e Oportunidades de Oferta - Algoritmo</b>: Nesta etapa utilizamos o algoritmo DecisionTreeClassifier biblioteca Sklearn, trata-se de um modelo de machine learning baseado em arvore de decisão com foco em identificação interações sem a efetividade da venda da passagem onibus coletivo rodoviário, neste modelo utilizamos as variaveis X = dados[['TESTE_TEMPO_SESSAO', 'TRAJETO', 'FAIXA_ETARIA', 'TIPO_HOSPEDAGEM', 'MOTIVO_VIAGEM', 'TOQUES_TELA']] para predição do y = dados['TESTE_SUCESSO_VENDA'], o objetivo deste algoritmo é identificar vendas potenciais não efetivas, gerando informações para direcionamento de ofertas e identificação de clientes potenciais.
+
+<p align="center">
+<img width="468" height="347" alt="Image" src="https://github.com/user-attachments/assets/5bd27b30-4413-423f-93a5-33d9b42e9212" /></a></p>
+
+
+- <b>Predição Vendas e Oportunidades de Oferta - Lista de Clientes Potenciais</b>: Após processamento das informações, o algoritmo necessita identificar na base de interações com vendas não efetivias, clientes potenciais para compra por meio de ofertas direcionais, a lista poderá ser utilizada para ações de marketing ou campanha de vendas.
+<p align="center">
+<img width="775" height="203" alt="Image" src="https://github.com/user-attachments/assets/f42d8587-1f57-4423-82aa-28a31bafd4e3" /></a></p>
+
+
 - <b>Predição Vendas e Oportunidades de Oferta - Acuracia</b>: A primeira proposta de aplicação do sistema de autoatendimento em Terminal rodoviário trata-se de um modelo de machine learning baseado em arvore de decisão com foco em identificação interações sem a efetividade da venda da passagem onibus coletivo rodoviário, neste modelo utilizamos as variaveis X = dados[['TESTE_TEMPO_SESSAO', 'TRAJETO', 'FAIXA_ETARIA', 'TIPO_HOSPEDAGEM', 'MOTIVO_VIAGEM', 'TOQUES_TELA']] para predição do y = dados['TESTE_SUCESSO_VENDA']
 - na simulação desta versão o teste de acuracia apontou para 44%, nesta etapa utilizamos dados aleatórios 
 <p align="center">
