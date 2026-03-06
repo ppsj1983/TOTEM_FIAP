@@ -11,7 +11,7 @@
 - <a href="https://www.linkedin.com/in/paulo-pereira-de-souza-junior-mba-msc-0b497825/">Paulo Pereira de Souza Junior</a>
 
 ## 👨‍🎓 Apresentacao: 
-- <a href="https://youtu.be/KwjXpKcI-GQ">Video Apresentação - YOUTUBE</a>
+- <a href="https://youtu.be/j_KQpf68c0s">Video Apresentação - YOUTUBE</a>
 
 ## 📜 Transporte Rodoviário - Cenario e Oportunidade (Dispositivo de autoatendimento)
 
@@ -112,6 +112,8 @@ Intensidade Alta (TOQUE_ALTA): Duração > 600ms | LED Verde
 *Nota: Os LEDs são utilizados exclusivamente para monitoramento do desempenho e depuração do sistema em tempo real.*
 
 Ao finalizar o formulário de pesquisa de passagens, o sistema consolidará os dados de frequência e intensidade de cada toque. Estas métricas serão integradas a um modelo preditivo para análise de comportamento, permitindo o direcionamento estratégico de ofertas personalizadas para clientes potenciais.
+
+Projeto Disponivel na Plataforma Wokwi - <a href="https://wokwi.com/projects/457570166619301889">Sensores Intensidade de Toque - Tela Totem Venda de Passagens Terminaris Rodoviarios</a>
 
 <img width="569" height="153" alt="Image" src="https://github.com/user-attachments/assets/5dcd2851-27a6-4b85-a8e5-9cecf836373f" /></a></p>
 
