@@ -174,6 +174,27 @@ Ação padrão ao desligar: todos LOW
 
 ## 📜 Aplicação - Tela Simulação Coleta de Dados
 
+Para criação do formulario de preenchimento, utilizamos a biblioteca Streamlit,  toda a interatividade foi definida diretamente no python, considerando o preenchimento em 3 etapas
+
+*Tela Informações do Passageiro*
+
+Utilizada para coleta de dados basicos, por exemplo, nome, celular e email
+<p align="center">
+<img width="1168" height="708" alt="Image" src="https://github.com/user-attachments/assets/31be7183-a73a-4bb2-89ab-7586264493c7" /></a></p>
+
+*Tela Detalhes do Trajeto*
+
+Utilizada para determinar a cidade de partida e destino, data da viagem e quantidade de assentos
+<p align="center">
+<img width="1145" height="713" alt="Image" src="https://github.com/user-attachments/assets/8ae7aaf1-b9b7-42bb-a4fb-d260c89eff47" /></a></p>
+
+*Tela Hospedagem e Motivo*
+
+Utilizada para coleta de dados de hospedagem, motivo da viagem e tipo de pagamento, informações que poderão ser utilizadas para direcionamento de ofertas e campanhas promocionais alinhadas aos interesses de cada cliente
+
+<p align="center">
+<img width="1021" height="861" alt="Image" src="https://github.com/user-attachments/assets/15828c5a-08b7-464e-94e2-4ff793c63570" /></a></p>
+
 ## 📜 Algoritmo para Identificação de Oportunidades de Vendas de Passagens e Direcionamento dee Ofertas - Biblioteca Sklearn
 - <b>Predição Vendas e Oportunidades de Oferta - Algoritmo</b>: Nesta etapa utilizamos o algoritmo DecisionTreeClassifier biblioteca Sklearn, trata-se de um modelo de machine learning baseado em arvore de decisão com foco em identificação interações sem a efetividade da venda da passagem onibus coletivo rodoviário, neste modelo utilizamos as variaveis X = dados[['TESTE_TEMPO_SESSAO', 'TRAJETO', 'FAIXA_ETARIA', 'TIPO_HOSPEDAGEM', 'MOTIVO_VIAGEM', 'TOQUES_TELA']] para predição do y = dados['TESTE_SUCESSO_VENDA'], o objetivo deste algoritmo é identificar vendas potenciais não efetivas, gerando informações para direcionamento de ofertas e identificação de clientes potenciais.
 
