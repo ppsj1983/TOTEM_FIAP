@@ -75,7 +75,7 @@ O sistema proposto deve contemplar as seguintes funcionalidades essenciais:
 
 **Aplicação de Machine Learning:** Identificar ofertas não efetivadas, mas com alto potencial de aceitação, considerando histórico de interações e comportamento de outros usuários. Utilizar as previsões do modelo para direcionaemnto de ofertas e estratégias de descontos para aumentar a conversão.
 
-## 📁 Desenvolvimento 3ª Etapa ~ Enterprise Challenge - Sprint 3 - FlexMedia [Sensores, Estrutura de Dados e Aplicações]
+## 📁 Desenvolvimento 3ª Etapa ~ Enterprise Challenge - Sprint 4 - FlexMedia [Sensores, Estrutura de Dados e Aplicações]
 - <b>Integração</b>: Macro fluxo exemplificando integração para coleta de dados de sensores.
 <p align="center">
 <img width="640" height="337" alt="Image" src="https://github.com/user-attachments/assets/ee5a1056-be45-40b1-93f4-a6c550d5d5c2" />></a></p>
@@ -171,6 +171,8 @@ Ação padrão ao desligar: todos LOW
 
 <p align="center">
 <img width="536" height="247" alt="Image" src="https://github.com/user-attachments/assets/5616d82a-b072-43d4-8f3d-20fc78d7985b" /></a></p>
+
+## 📜 Aplicação - Tela Simulação Coleta de Dados
 
 ## 📜 Algoritmo para Identificação de Oportunidades de Vendas de Passagens e Direcionamento dee Ofertas - Biblioteca Sklearn
 - <b>Predição Vendas e Oportunidades de Oferta - Algoritmo</b>: Nesta etapa utilizamos o algoritmo DecisionTreeClassifier biblioteca Sklearn, trata-se de um modelo de machine learning baseado em arvore de decisão com foco em identificação interações sem a efetividade da venda da passagem onibus coletivo rodoviário, neste modelo utilizamos as variaveis X = dados[['TESTE_TEMPO_SESSAO', 'TRAJETO', 'FAIXA_ETARIA', 'TIPO_HOSPEDAGEM', 'MOTIVO_VIAGEM', 'TOQUES_TELA']] para predição do y = dados['TESTE_SUCESSO_VENDA'], o objetivo deste algoritmo é identificar vendas potenciais não efetivas, gerando informações para direcionamento de ofertas e identificação de clientes potenciais.
