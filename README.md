@@ -117,6 +117,34 @@ Projeto Disponivel na Plataforma Wokwi - <a href="https://wokwi.com/projects/457
 
 <img width="569" height="153" alt="Image" src="https://github.com/user-attachments/assets/5dcd2851-27a6-4b85-a8e5-9cecf836373f" /></a></p>
 
+**Especificação Técnica**
+
+*Nome sugerido:* Contador de Duração de Pressionamento (3 níveis) com Start/Stop por Toggle
+
+*Plataforma alvo:* ESP32 (Arduino IDE / PlatformIO)
+
+*Interface de operação:* 2 botões físicos + 3 LEDs + Serial Monitor (UART)
+
+**Mapeamento de Hardware**
+
+Entradas (com pull-up interno)
+
+buttonPin1 = GPIO 5 → Botão de medição de toque (press duration)
+buttonPin2 = GPIO 18 → Botão de alternância ON/OFF do programa
+
+Configuração elétrica: INPUT_PULLUP
+- Estado em repouso esperado: HIGH
+- Pressionado (contato ao GND): LOW
+
+Saídas (LEDs)
+
+ledPin1 = GPIO 19 → Indicação TOQUE_BAIXO
+ledPin6 = GPIO 4 → Indicação TOQUE_MEDIA
+ledPin7 = GPIO 2 → Indicação TOQUE_ALTA
+
+Configuração: OUTPUT
+Ação padrão ao desligar: todos LOW
+
 ## 📜 Estrutura do Banco de Dados
 - <b>Banco de dados</b>: Bando de dados FIAP e criação da tabela MODELO_TOTEM para o projeto FlexMedia
 <p align="center">
